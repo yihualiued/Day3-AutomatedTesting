@@ -1,0 +1,10 @@
+# Python build files
+__pycache__
+*.pyc
+
+# pixi environments
+.pixi
+*.egg-info
+
+# pytest
+.pytest_cache
