@@ -12,7 +12,7 @@ Activate the Environment and Finish Setting Up the Internal Tools
 
 ```
 conda activate ./venv
-python -m ipykernel install --name testing
+python -m ipykernel install --name testing --user
 pip install -e .
 ```
 
