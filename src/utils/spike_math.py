@@ -19,7 +19,7 @@ def count_spikes(spikes):
     return total
 
 count_spikes([1, 5, 6, 8])
-
+ 
 
 
 # %%  Compute Inter-Spike-Interval Function
